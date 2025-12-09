@@ -1,0 +1,1 @@
+export default function D() { return <div className="p-10 pt-32 text-center"><h1>Tableau de bord (En construction)</h1></div> }

@@ -1,0 +1,1 @@
+@tailwind base; @tailwind components; @tailwind utilities; body { @apply bg-black text-white; } .glass { @apply bg-zinc-900 border border-zinc-800 rounded-xl; }
